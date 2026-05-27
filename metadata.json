@@ -1,0 +1,8 @@
+{
+  "name": "WIIK/AI Consulting",
+  "description": "Minimalist landing page for WIIK/AI - Consulting for ambitious startups and technical founders in Finance, Market Research, Data Room development, and Fundraising.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
